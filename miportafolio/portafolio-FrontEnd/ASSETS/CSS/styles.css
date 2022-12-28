@@ -1,0 +1,27 @@
+body{
+    background-image: url(../IMG/Ideas.jpg);
+    background-image: url(../IMG/Programar.jpg);
+    background-image: url(../IMG/Despertar.jpg);
+  }
+  
+  
+  
+  i.fa-brands.fa-linkedin-in.fa-2xl:hover{
+    color: aqua;
+  }
+  i.fa-brands.fa-github.fa-2xl:hover{
+    color: beige;
+  }
+  i.fa-brands.fa-facebook-f.fa-2xl:hover{
+    color: blue;
+  }
+  i.fa-solid.fa-user-lock.fa-2xl:hover{
+    color:rgb(160, 100, 11) ;
+  }
+  i.fa-solid.fa-user.fa-2xl:hover{
+    color:rgb(160, 100, 11) ;
+  }
+  section.about{
+    margin-top:0% ;
+  }
+  
